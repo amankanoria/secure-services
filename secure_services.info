@@ -1,0 +1,7 @@
+name = Secure Services
+description = Provides HTTP basic authentication for the services module
+core = 6.x
+
+package = Services - authentication
+
+dependencies[] = services
